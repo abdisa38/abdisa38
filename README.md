@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>I’m Abdisa Awel, a Computer Science undergraduate and Junior Full Stack Developer from Ethiopia 🇪🇹.<br>I enjoy building real-world web applications and continuously improving my skills through hands-on projects.<br>I’m especially interested in backend development and creating systems that solve real problems.<br><br>
+Hey there! 👋<br>I’m Abdisa Awel, a Computer Science undergraduate and 2 years of experience by Full Stack Developer from Ethiopia 🇪🇹.<br>I enjoy building real-world web applications and continuously improving my skills through hands-on projects.<br>I’m especially interested in backend development and creating systems that solve real problems.<br><br>
 🎓 Education<br>
 🎓 BSc in Computer Science (Undergraduate)
 Madda Walabu University – Bale Robe, Ethiopia <br><br>
