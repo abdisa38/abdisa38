@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Abdisa Awel</h1>
 <h3 align="center">I am passionate about building scalable web applications, AI-powered systems, and real-world software solutions that solve meaningful problems. I enjoy taking projects from idea and design to development, deployment, and maintenance.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdisa38" alt="abdisa38" /></a> </p>
-
 - 🔭 I’m currently working on **MWU Clearance Management System**
 
 - 🌱 I’m currently learning **Scalable Backend Engineering**
