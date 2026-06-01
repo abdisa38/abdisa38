@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Abdisa Awel</h1>
+<h1 align="center">Hi 👋, I'm Abdisa Awel</h1>
 <h3 align="center">I am passionate about building scalable web applications, AI-powered systems, and real-world software solutions that solve meaningful problems. I enjoy taking projects from idea and design to development, deployment, and maintenance.</h3>
 
 - 🔭 I’m currently working on **MWU Clearance Management System**
