@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdisa-awel-92b963383/?skipredirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdisa-awel-92b963383/?skipredirect=true" height="30" width="40" /></a>
+<a href="https://t.me/bdisa38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="bdisa38" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
