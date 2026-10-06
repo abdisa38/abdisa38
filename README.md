@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdisaawel82@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1L1P-w-phyMTQBoVevglI_cC2XluLvOcjUwFPybRPVkg/edit?tab=t.0](https://docs.google.com/document/d/1a13FGkLijs2RH5swNTx2PbeVKfWcs31jsdx__raWfc4/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1L1P-w-phyMTQBoVevglI_cC2XluLvOcjUwFPybRPVkg/edit?tab=t.0](https://docs.google.com/document/d/1SfoaOdVBV1gYIBg3dsAbaWirlqRPg7YHzFK2sh2_vcc/edit?usp=sharing)
 
 - ⚡ Fun fact **I have built multiple full-stack applications from scratch to deployment and maintain 90+ repositories with over 2400+ GitHub contributions.**
 
