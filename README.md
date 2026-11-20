@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Startup & SaaS Products**
 
-- 👨‍💻 All of my projects are available at https://abdisaawel.dev/
+- 👨‍💻 All of my projects are available at abdisaawel.dev
 
 - 💬 Ask me about **React.js,Next.js,TypeScript,Node.js,Express.js,MongoDB,REST APIs,JWT Authentication,MERN Stack Development**
 
